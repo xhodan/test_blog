@@ -1,5 +1,5 @@
 ---
-layout: wrapper
+layout: default
 title:  "Welcome to Jekyll!"
 date:   2019-05-25 23:34:35 -0700
 categories: jekyll update
